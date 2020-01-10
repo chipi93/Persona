@@ -13,6 +13,7 @@ public class main {
 		System.out.println(p1.consulta_Nombre());
 		System.out.println("Cambiogit");
 		System.out.println("Cambio 2");
+		System.out.println("CAmbio3");
 	}
 
 }
