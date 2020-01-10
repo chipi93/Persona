@@ -11,6 +11,8 @@ public class main {
 		String cad=tec.nextLine();
 		p1.cambia_Nombre(cad);
 		System.out.println(p1.consulta_Nombre());
+		System.out.println("Cambiogit");
+		System.out.println("Cambio 2");
 	}
 
 }
